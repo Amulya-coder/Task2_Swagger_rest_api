@@ -15,6 +15,7 @@
 
 
 <b>Object created in Mongodb</b>
+
 ![image](https://user-images.githubusercontent.com/66437295/228635735-3705df41-7ab8-4908-b1e4-c038d2f43a75.png)
 
 - <h3> Get Server objects </h3>
@@ -25,6 +26,8 @@ Click on getServers and then click on try out and then press execute. We will ge
 
 
 - <h3> Get Server by id </h3>
+
+``` Returns the server of id 123 ```
 ![image](https://user-images.githubusercontent.com/66437295/228638681-6f4b985d-25c8-4bef-b81b-6d6729460a2f.png)
 
 
@@ -43,7 +46,12 @@ Click on getServers and then click on try out and then press execute. We will ge
 
 - <h3> Get Server by name </h3>
 
-``` Returns one or more server with name my app ```
+``` Returns the server of name my swagger ```
+
+![image](https://user-images.githubusercontent.com/66437295/228646553-4d0f4bfc-708a-4e52-bd09-01a620b2e05f.png)
+
+
+``` Returns one or more server of name my app ```
 
 ![image](https://user-images.githubusercontent.com/66437295/228644102-85e60d0a-0637-4099-b52c-57eb369a2be6.png)
 
