@@ -18,7 +18,9 @@
 ![image](https://user-images.githubusercontent.com/66437295/228635735-3705df41-7ab8-4908-b1e4-c038d2f43a75.png)
 
 - <h3> Get Server objects </h3>
+
 Click on getServers and then click on try out and then press execute. We will get all the objects stored in mongo database.
+
 ![image](https://user-images.githubusercontent.com/66437295/228637225-6daf0a1f-3b84-4fde-827f-849541582cbd.png)
 
 
@@ -27,6 +29,7 @@ Click on getServers and then click on try out and then press execute. We will ge
 
 
 -  <h3> Delete Server by id </h3>
+
 <b> Server deleted </b>
 
 ![image](https://user-images.githubusercontent.com/66437295/228639294-db7fec84-619b-4c27-a836-5b74a0645ec9.png)
@@ -39,7 +42,9 @@ Click on getServers and then click on try out and then press execute. We will ge
 
 
 - <h3> Get Server by name </h3>
+
 ``` Returns one or more server with name my app ```
+
 ![image](https://user-images.githubusercontent.com/66437295/228644102-85e60d0a-0637-4099-b52c-57eb369a2be6.png)
 
 
