@@ -1,13 +1,16 @@
 # Task2 - Swagger Codegen
 ## Implementation of Swagger with SpringBoot and MongoDB
-- Added dependencies for swagger in existing Project of task 1.
+### Adding dependencies for swagger in existing Project of task 1.
+
+![image](https://user-images.githubusercontent.com/66437295/228854017-db217ea1-1452-4e61-bc98-d95dcf4ecd9f.png)
+
 
 ### Request Results on swagger
 ### Swagger link - http://localhost:8080/swagger-ui/index.html
 
 ![image](https://user-images.githubusercontent.com/66437295/228633092-3547feb8-d7ce-4054-ae75-f572bfbd8a91.png)
 
-- <h3> Creating object</h3>
+- <h3> Creating object in Swagger</h3>
 
 ![image](https://user-images.githubusercontent.com/66437295/228634664-256517dd-1c30-4375-86f3-40e055b8fdab.png)
 
